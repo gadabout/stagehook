@@ -1,0 +1,11 @@
+[
+    {
+
+      "NOREAGA_TAG": "rc-q4currency-6232529-dfa712d",
+      "STETSON_TAG": "prod",
+      "SPINNAKER_TAG": "prod",
+      "SUNFLOWER_TAG": "7.0.0.e2212ae",
+      "CF_COMMIT_MESSAGE": "updating stage with oxygen bundle"
+
+    }
+  ]
