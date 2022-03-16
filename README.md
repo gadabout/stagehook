@@ -1,2 +1,2 @@
 # stagehook
-Like github.com/gadabout/skyhook ... but for stage
+Like [skyhook](github.com/gadabout/skyhook) ... but for stage
