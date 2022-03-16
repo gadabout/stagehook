@@ -5,7 +5,7 @@
       "STETSON_TAG": "prod",
       "SPINNAKER_TAG": "prod",
       "SUNFLOWER_TAG": "7.0.0.e2212ae",
-      "CF_COMMIT_MESSAGE": "updating stage with oxygen bundle"
+      "CF_COMMIT_MESSAGE": "casey is testing new stuff"
 
     }
   ]
