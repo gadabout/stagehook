@@ -1,11 +1,11 @@
 [
     {
 
-      "NOREAGA_TAG": "rc-317lowrisk-6233af7-d6bf3e6",
+      "NOREAGA_TAG": "prod",
       "STETSON_TAG": "prod",
       "SPINNAKER_TAG": "prod",
       "SUNFLOWER_TAG": "7.0.0.e2212ae",
-      "CF_COMMIT_MESSAGE": "updating stage with 3-17 low risk noreaga bundle"
+      "CF_COMMIT_MESSAGE": "updating stage with prod tag"
 
     }
   ]
