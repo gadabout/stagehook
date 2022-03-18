@@ -1,11 +1,10 @@
-[
     {
 
-      "NOREAGA_TAG": "prod",
-      "STETSON_TAG": "rc-customquestionsreport-6232281-f6ae7a3",
+      "NOREAGA_TAG": "rc-noreaga-3-18-bundle-6234f30-073d5fa",
+      "STETSON_TAG": "prod",
       "SPINNAKER_TAG": "prod",
-      "SUNFLOWER_TAG": "7.0.0.e2212ae",
-      "CF_COMMIT_MESSAGE": "updating stetson w/ CQ report branch"
+      "SUNFLOWER_TAG": "7.0.0.6233d69.572b7d2",
+      "CF_COMMIT_MESSAGE": "updating noreaga with payments bundle"
 
     }
   ]
