@@ -2,10 +2,10 @@
     {
 
       "NOREAGA_TAG": "prod",
-      "STETSON_TAG": "prod",
+      "STETSON_TAG": "rc-customquestionsreport-6232281-f6ae7a3",
       "SPINNAKER_TAG": "prod",
       "SUNFLOWER_TAG": "7.0.0.e2212ae",
-      "CF_COMMIT_MESSAGE": "updating stage with prod tag"
+      "CF_COMMIT_MESSAGE": "updating stetson w/ CQ report branch"
 
     }
   ]
