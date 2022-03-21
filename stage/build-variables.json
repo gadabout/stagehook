@@ -1,11 +1,11 @@
 [
     {
 
-      "NOREAGA_TAG": "prod",
+      "NOREAGA_TAG": "rc-317lowrisk-6238a3d-9d2fc88",
       "STETSON_TAG": "rc-customquestionsreport-6232281-f6ae7a3",
       "SPINNAKER_TAG": "prod",
       "SUNFLOWER_TAG": "7.0.0.e2212ae",
-      "CF_COMMIT_MESSAGE": "updating stetson w/ CQ report branch"
+      "CF_COMMIT_MESSAGE": "updating 317 release"
 
     }
   ]
