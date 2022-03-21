@@ -1,11 +1,11 @@
 [
     {
 
-      "NOREAGA_TAG": "rc-317lowrisk-6238a3d-9d2fc88",
-      "STETSON_TAG": "rc-customquestionsreport-6232281-f6ae7a3",
+      "NOREAGA_TAG": "rc-noreaga-3-18-bundle-6238ace-e70041e",
+      "STETSON_TAG": "prod",
       "SPINNAKER_TAG": "prod",
       "SUNFLOWER_TAG": "7.0.0.e2212ae",
-      "CF_COMMIT_MESSAGE": "updating 317 release"
+      "CF_COMMIT_MESSAGE": "updating 3-18 payments noreaga release"
 
     }
   ]
