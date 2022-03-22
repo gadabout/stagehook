@@ -1,11 +1,11 @@
 [
     {
 
-      "NOREAGA_TAG": "rc-noreaga-3-18-bundle-62391a2-aa16ffb",
-      "STETSON_TAG": "prod",
+      "NOREAGA_TAG": "rc-viator-resource-filter-623a0e1-c45fa22",
+      "STETSON_TAG": "rc-customquestionsreport-6232281-f6ae7a3",
       "SPINNAKER_TAG": "prod",
       "SUNFLOWER_TAG": "7.0.0.e2212ae",
-      "CF_COMMIT_MESSAGE": "updating 3-18 payments noreaga release"
+      "CF_COMMIT_MESSAGE": "updating stage w/ viator + memberships release task"
 
     }
   ]
