@@ -1,11 +1,11 @@
 [
     {
 
-      "NOREAGA_TAG": "rc-viator-resource-filter-623a0e1-c45fa22",
-      "STETSON_TAG": "rc-customquestionsreport-6232281-f6ae7a3",
+      "NOREAGA_TAG": "rc-custom-question-report-pt1-6241f93-8aba058",
+      "STETSON_TAG": "rc-customquestionsreporttake4-6241e47-d02461a",
       "SPINNAKER_TAG": "prod",
       "SUNFLOWER_TAG": "7.0.0.e2212ae",
-      "CF_COMMIT_MESSAGE": "updating stage w/ viator + memberships release task"
+      "CF_COMMIT_MESSAGE": "updating stage w/ last CQ Report fix"
 
     }
   ]
