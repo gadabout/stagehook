@@ -1,11 +1,11 @@
 [
     {
 
-      "NOREAGA_TAG": "rc-custom-question-report-pt1-6241f93-8aba058",
-      "STETSON_TAG": "rc-customquestionsreporttake4-6241e47-d02461a",
+      "NOREAGA_TAG": "rc-payments-160-166-6242361-c727016",
+      "STETSON_TAG": "prod",
       "SPINNAKER_TAG": "prod",
       "SUNFLOWER_TAG": "7.0.0.e2212ae",
-      "CF_COMMIT_MESSAGE": "updating stage w/ last CQ Report fix"
+      "CF_COMMIT_MESSAGE": "Payments - Braintree Disbursements and Disputes"
 
     }
   ]
