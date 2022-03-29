@@ -1,11 +1,11 @@
 [
     {
 
-      "NOREAGA_TAG": "rc-payments-160-166-6242361-c727016",
+      "NOREAGA_TAG": "rc-membershipspt9-624351b-24094a2",
       "STETSON_TAG": "prod",
-      "SPINNAKER_TAG": "prod",
+      "SPINNAKER_TAG": "rc-membershipspt5-624351e-76d365b",
       "SUNFLOWER_TAG": "7.0.0.e2212ae",
-      "CF_COMMIT_MESSAGE": "Payments - Braintree Disbursements and Disputes"
+      "CF_COMMIT_MESSAGE": "Memberships"
 
     }
   ]
