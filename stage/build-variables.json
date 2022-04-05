@@ -1,11 +1,11 @@
 [
     {
 
-      "NOREAGA_TAG": "rc-membershipspt9-624b2ea-08978de",
+      "NOREAGA_TAG": "rc-BT-Stripe-Paymt-tr-pt2-624c7cb-d4e0b26",
       "STETSON_TAG": "prod",
-      "SPINNAKER_TAG": "rc-membershipspt5-624351e-76d365b",
+      "SPINNAKER_TAG": "prod",
       "SUNFLOWER_TAG": "7.0.0.e2212ae",
-      "CF_COMMIT_MESSAGE": "Memberships"
+      "CF_COMMIT_MESSAGE": "Noreaga tag update BT Stripe Payment Transactor"
 
     }
   ]
