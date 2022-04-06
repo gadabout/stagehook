@@ -1,11 +1,11 @@
 [
     {
 
-      "NOREAGA_TAG": "rc-BT-Stripe-Paymt-tr-pt2-624cae5-b260cb9",
+      "NOREAGA_TAG": "rc-viatorcommission-624e077-8861d36",
       "STETSON_TAG": "prod",
       "SPINNAKER_TAG": "prod",
       "SUNFLOWER_TAG": "7.0.0.e2212ae",
-      "CF_COMMIT_MESSAGE": "Noreaga tag update BT Stripe Payment Transactor take 2"
+      "CF_COMMIT_MESSAGE": "Viator Commish"
 
     }
   ]
