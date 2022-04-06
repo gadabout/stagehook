@@ -1,15 +1,10 @@
 [
     {
 
-      "NOREAGA_TAG": "rc-viatorcommission-624e077-8861d36",
+      "NOREAGA_TAG": "rc-membershipsv1-5be-624e1e1-8d6cd10",
       "STETSON_TAG": "prod",
       "SPINNAKER_TAG": "rc-depupdate46-624e21d-080f283",
       "SUNFLOWER_TAG": "7.0.0.e2212ae",
-<<<<<<< HEAD
-      "CF_COMMIT_MESSAGE": "Viator Commish"
-=======
-      "CF_COMMIT_MESSAGE": "spinnaker dependency updates [update stage]"
->>>>>>> spinnakerdep
 
     }
   ]
