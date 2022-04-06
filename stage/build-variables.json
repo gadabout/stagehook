@@ -5,7 +5,6 @@
       "STETSON_TAG": "prod",
       "SPINNAKER_TAG": "rc-depupdate46-624e21d-080f283",
       "SUNFLOWER_TAG": "7.0.0.e2212ae",
-      "CF_COMMIT_MESSAGE": "Memberships v1.5 BE + Spinnaker Dep Updates"
 
     }
   ]
