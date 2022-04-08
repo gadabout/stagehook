@@ -1,11 +1,11 @@
 [
     {
 
-      "NOREAGA_TAG": "rc-membershipsfixes47-624f45b-d224d35",
-      "STETSON_TAG": "prod",
+      "NOREAGA_TAG": "rc-membershipsfixes47-62507f9-e902b1d",
+      "STETSON_TAG": "rc-sunflowerfixes-6250807-b423379",
       "SPINNAKER_TAG": "rc-depupdate46-624e21d-080f283",
       "SUNFLOWER_TAG": "7.0.0.e2212ae",
-      "CF_COMMIT_MESSAGE": "Memberships Fixes + Spin DepUpdates"
+      "CF_COMMIT_MESSAGE": "Memberships/Sunflower Fixes + Spin DepUpdates"
 
     }
   ]
