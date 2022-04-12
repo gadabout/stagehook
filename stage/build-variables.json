@@ -1,11 +1,11 @@
 [
     {
 
-      "NOREAGA_TAG": "rc-allpodsbundle-6255e2c-f6289c8",
-      "STETSON_TAG": "rc-podsbundleupdate412-6255d26-547786b",
-      "SPINNAKER_TAG": "rc-podsbundleupdate411-6254b92-09b4cc3",
+      "NOREAGA_TAG": "rc-oxygen90products-6255f99-64911ca",
+      "STETSON_TAG": "prod",
+      "SPINNAKER_TAG": "prod",
       "SUNFLOWER_TAG": "7.0.0.e2212ae",
-      "CF_COMMIT_MESSAGE": "bundle"
+      "CF_COMMIT_MESSAGE": "Oxygen H2O-1245"
 
     }
   ]
