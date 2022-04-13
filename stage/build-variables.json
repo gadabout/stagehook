@@ -1,11 +1,11 @@
 [
     {
 
-      "NOREAGA_TAG": "rc-oxygen90products-6255f99-64911ca",
+      "NOREAGA_TAG": "rc-moicescalation-6256ff3-f1b8250",
       "STETSON_TAG": "prod",
       "SPINNAKER_TAG": "prod",
       "SUNFLOWER_TAG": "7.0.0.e2212ae",
-      "CF_COMMIT_MESSAGE": "Oxygen H2O-1245"
+      "CF_COMMIT_MESSAGE": "moic escalation"
 
     }
   ]
