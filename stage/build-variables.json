@@ -1,11 +1,11 @@
 [
     {
 
-      "NOREAGA_TAG": "rc-oxygen90products-62575c0-501c280",
+      "NOREAGA_TAG": "rc-allpodsbundle-6258712-b30ddfd",
       "STETSON_TAG": "prod",
-      "SPINNAKER_TAG": "prod",
+      "SPINNAKER_TAG": "rc-podsbundle414-625877f-68b42a5",
       "SUNFLOWER_TAG": "7.0.0.e2212ae",
-      "CF_COMMIT_MESSAGE": "updated legacy availability branch"
+      "CF_COMMIT_MESSAGE": "updated pods bundle"
 
     }
   ]
