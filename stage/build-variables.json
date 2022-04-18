@@ -1,11 +1,11 @@
 [
     {
 
-      "NOREAGA_TAG": "rc-allpodsbundle-62589b8-baf14d3",
+      "NOREAGA_TAG": "rc-gcpprimarykeys-625dbbf-26e25b8",
       "STETSON_TAG": "prod",
-      "SPINNAKER_TAG": "rc-podsbundle414-625877f-68b42a5",
+      "SPINNAKER_TAG": "prod",
       "SUNFLOWER_TAG": "7.0.0.e2212ae",
-      "CF_COMMIT_MESSAGE": "updated pods bundle 4-18"
+      "CF_COMMIT_MESSAGE": "GCP Primary Keys- Noreaga"
 
     }
   ]
