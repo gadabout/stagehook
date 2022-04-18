@@ -1,11 +1,11 @@
 [
     {
 
-      "NOREAGA_TAG": "rc-gcpprimarykeys-625dbbf-26e25b8",
-      "STETSON_TAG": "prod",
+      "NOREAGA_TAG": "rc-pp7fixes418-625de13-cc5610e",
+      "STETSON_TAG": "rc-pp7fixes418-625dc41-e6bfc4a",
       "SPINNAKER_TAG": "prod",
       "SUNFLOWER_TAG": "7.0.0.e2212ae",
-      "CF_COMMIT_MESSAGE": "GCP Primary Keys- Noreaga"
+      "CF_COMMIT_MESSAGE": "Memberships/PP7"
 
     }
   ]
