@@ -2,8 +2,8 @@
     {
 
       "NOREAGA_TAG": "rc-pp7fixes418-625eebb-b84da85",
-      "STETSON_TAG": "rc-pp7fixes418-625dc41-e6bfc4a",
-      "SPINNAKER_TAG": "prod",
+      "STETSON_TAG": "rc-pp7fixes419-625f454-a71b395",
+      "SPINNAKER_TAG": "rc-customerportal-625f40b-1ced6a0",
       "SUNFLOWER_TAG": "7.0.0.e2212ae",
       "CF_COMMIT_MESSAGE": "Memberships/PP7"
 
