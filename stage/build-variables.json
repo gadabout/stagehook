@@ -1,11 +1,11 @@
 [
     {
 
-      "NOREAGA_TAG": "rc-pp7fixes418-6261c24-e7d4929",
-      "STETSON_TAG": "rc-pp7wrapupepic-62602ca-167218b",
-      "SPINNAKER_TAG": "rc-customerportal-625f40b-1ced6a0",
+      "NOREAGA_TAG": "rc-pp7fixes418-6261e00-13159a0",
+      "STETSON_TAG": "rc-pp7wrapuptake3-6261e0e-a05e7d5",
+      "SPINNAKER_TAG": "rc-customerportaltake2-6261dde-b3bd1bd",
       "SUNFLOWER_TAG": "7.0.0.e2212ae",
-      "CF_COMMIT_MESSAGE": "Memberships and PP7 421"
+      "CF_COMMIT_MESSAGE": "Memberships and PP7 421 update"
 
     }
   ]
