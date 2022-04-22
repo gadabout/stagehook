@@ -1,11 +1,11 @@
 [
     {
 
-      "NOREAGA_TAG": "rc-gta-penny-fix-4-20-6261d02-0985249",
+      "NOREAGA_TAG": "rc-pp7fixes418-6261e00-13159a0",
       "STETSON_TAG": "rc-pp7wrapuptake3-6261e0e-a05e7d5",
       "SPINNAKER_TAG": "rc-customerportaltake2-6261dde-b3bd1bd",
       "SUNFLOWER_TAG": "7.0.0.e2212ae",
-      "CF_COMMIT_MESSAGE": "mastergraph update and disbursements 4-21"
+      "CF_COMMIT_MESSAGE": "mastergraph update and disbursements 4-21-take2"
 
     }
   ]
