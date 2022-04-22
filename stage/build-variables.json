@@ -2,10 +2,10 @@
     {
 
       "NOREAGA_TAG": "rc-pp7fixes418-6261e00-13159a0",
-      "STETSON_TAG": "https://github.com/gadabout/noreaga/pull/4548",
+      "STETSON_TAG": "rc-pp7wrapuptake4-6262f0d-5ca8677",
       "SPINNAKER_TAG": "rc-customerportaltake2-6261dde-b3bd1bd",
       "SUNFLOWER_TAG": "7.0.0.e2212ae",
-      "CF_COMMIT_MESSAGE": "mastergraph update and disbursements 4-22"
+      "CF_COMMIT_MESSAGE": "PP7 4-22"
 
     }
   ]
