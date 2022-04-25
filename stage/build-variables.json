@@ -1,11 +1,11 @@
 [
     {
 
-      "NOREAGA_TAG": "rc-pp7fixes418-6261e00-13159a0",
-      "STETSON_TAG": "rc-pp7wrapuptake4-6262f0d-5ca8677",
-      "SPINNAKER_TAG": "rc-customerportaltake2-6261dde-b3bd1bd",
+      "NOREAGA_TAG": "rc-cqupdate-6266cf9-89fbefd",
+      "STETSON_TAG": "prod",
+      "SPINNAKER_TAG": "prod",
       "SUNFLOWER_TAG": "7.0.0.e2212ae",
-      "CF_COMMIT_MESSAGE": "PP7 4-22 comeon"
+      "CF_COMMIT_MESSAGE": "CQ update 425"
 
     }
   ]
