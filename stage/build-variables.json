@@ -1,11 +1,11 @@
 [
     {
 
-      "NOREAGA_TAG": "rc-pp7followup-6266eba-5df30a1",
+      "NOREAGA_TAG": "rc-425lowrisk-6267232-054f5fb",
       "STETSON_TAG": "rc-pp7followup-6266eac-e19d3c7",
       "SPINNAKER_TAG": "prod",
       "SUNFLOWER_TAG": "7.0.0.e2212ae",
-      "CF_COMMIT_MESSAGE": "PP7 followups 425"
+      "CF_COMMIT_MESSAGE": "Low-risk bundle"
 
     }
   ]
