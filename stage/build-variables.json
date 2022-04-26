@@ -1,11 +1,11 @@
 [
     {
 
-      "NOREAGA_TAG": "rc-pp7followup-6266eba-5df30a1",
+      "NOREAGA_TAG": "rc-adminspoofing-62686bc-7bb6623",
       "STETSON_TAG": "rc-pp7followuptake2-62683e7-2d64426",
       "SPINNAKER_TAG": "prod",
       "SUNFLOWER_TAG": "7.0.0.e2212ae",
-      "CF_COMMIT_MESSAGE": "pp7 fixes"
+      "CF_COMMIT_MESSAGE": "admin spoofing"
 
     }
   ]
