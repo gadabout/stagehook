@@ -1,11 +1,11 @@
 [
     {
 
-      "NOREAGA_TAG": "rc-cqupdate-6266cf9-89fbefd",
+      "NOREAGA_TAG": "rc-pp7followup-6266eba-5df30a1",
       "STETSON_TAG": "rc-pp7followup-6266eac-e19d3c7",
       "SPINNAKER_TAG": "prod",
       "SUNFLOWER_TAG": "7.0.0.e2212ae",
-      "CF_COMMIT_MESSAGE": "cq report"
+      "CF_COMMIT_MESSAGE": "pp7 fixes"
 
     }
   ]
