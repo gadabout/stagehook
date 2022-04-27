@@ -1,11 +1,11 @@
 [
     {
 
-      "NOREAGA_TAG": "rc-425lowrisk-626976b-0cf6444",
+      "NOREAGA_TAG": "rc-425lowrisk-6269af4-b85b587",
       "STETSON_TAG": "rc-pp7followuptake4-626993f-3d507c9",
       "SPINNAKER_TAG": "rc-pp7followuptake2-6269983-5a072e7",
       "SUNFLOWER_TAG": "7.0.0.e2212ae",
-      "CF_COMMIT_MESSAGE": "New PP7 fixes2"
+      "CF_COMMIT_MESSAGE": "quick follow low-risk"
 
     }
   ]
