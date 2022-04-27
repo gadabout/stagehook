@@ -1,11 +1,11 @@
 [
     {
 
-      "NOREAGA_TAG": "rc-adminspoofing-62686bc-7bb6623",
+      "NOREAGA_TAG": "rc-425lowrisk-626976b-0cf6444",
       "STETSON_TAG": "rc-pp7followuptake2-62683e7-2d64426",
       "SPINNAKER_TAG": "rc-426depupdate-6268774-b1856bc",
       "SUNFLOWER_TAG": "7.0.0.e2212ae",
-      "CF_COMMIT_MESSAGE": "Spinnaker dependency update"
+      "CF_COMMIT_MESSAGE": "Noreaga low-risk bundle"
 
     }
   ]
