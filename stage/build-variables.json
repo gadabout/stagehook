@@ -1,11 +1,11 @@
 [
     {
 
-      "NOREAGA_TAG": "rc-pp7followuptake2-6269e4a-1af3710",
-      "STETSON_TAG": "rc-pp7followuptake5-6269b35-46e998d",
-      "SPINNAKER_TAG": "rc-pp7followuptake3-6269b14-41c6cab",
+      "NOREAGA_TAG": "prod",
+      "STETSON_TAG": "rc-pp7followups428-626ae38-d93fdbb",
+      "SPINNAKER_TAG": "prod",
       "SUNFLOWER_TAG": "7.0.0.e2212ae",
-      "CF_COMMIT_MESSAGE": "PP7ness"
+      "CF_COMMIT_MESSAGE": "PP7 fixes"
 
     }
   ]
