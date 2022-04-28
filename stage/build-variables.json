@@ -1,11 +1,11 @@
 [
     {
 
-      "NOREAGA_TAG": "rc-badrevert-6269d5d-6b345e2",
+      "NOREAGA_TAG": "rc-pp7followuptake2-6269c0b-899489f",
       "STETSON_TAG": "rc-pp7followuptake5-6269b35-46e998d",
       "SPINNAKER_TAG": "rc-pp7followuptake3-6269b14-41c6cab",
       "SUNFLOWER_TAG": "7.0.0.e2212ae",
-      "CF_COMMIT_MESSAGE": "done did a bad revert -- give it another shot"
+      "CF_COMMIT_MESSAGE": "PP7ness"
 
     }
   ]
