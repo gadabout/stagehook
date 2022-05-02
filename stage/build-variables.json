@@ -1,8 +1,8 @@
 [
     {
 
-      "NOREAGA_TAG": "prod",
-      "STETSON_TAG": "rc-pp7followups428-626ae38-d93fdbb",
+      "NOREAGA_TAG": "rc-customerportallink-6270594-5155796",
+      "STETSON_TAG": "rc-pp7spoofingcustomerportal-6270301-b15d09a",
       "SPINNAKER_TAG": "prod",
       "SUNFLOWER_TAG": "7.0.0.e2212ae",
       "CF_COMMIT_MESSAGE": "PP7 fixes"
