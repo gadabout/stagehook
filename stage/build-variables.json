@@ -1,11 +1,11 @@
 [
     {
 
-      "NOREAGA_TAG": "rc-customerportallink-6270594-5155796",
-      "STETSON_TAG": "rc-pp7spoofingcustomerportal-6270301-b15d09a",
+      "NOREAGA_TAG": "rc-payment-txns-flip-62705ed-2851957",
+      "STETSON_TAG": "prod",
       "SPINNAKER_TAG": "prod",
       "SUNFLOWER_TAG": "7.0.0.e2212ae",
-      "CF_COMMIT_MESSAGE": "PP7 fixes"
+      "CF_COMMIT_MESSAGE": "Payments flip transactions"
 
     }
   ]
