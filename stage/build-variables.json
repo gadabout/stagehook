@@ -1,8 +1,8 @@
 [
     {
 
-      "NOREAGA_TAG": "rc-customerportallink-6272caf-c58c859",
-      "STETSON_TAG": "rc-pp7spoofingportal-6271850-983fc64",
+      "NOREAGA_TAG": "prod",
+      "STETSON_TAG": "prod",
       "SPINNAKER_TAG": "prod",
       "SUNFLOWER_TAG": "7.0.0.e2212ae",
       "CF_COMMIT_MESSAGE": "PP7 spoofing 5-4 updated"
