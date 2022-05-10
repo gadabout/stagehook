@@ -2,7 +2,7 @@
     {
 
       "NOREAGA_TAG": "prod",
-      "STETSON_TAG": "rc-pp7spoofingportal-6271850-983fc64",
+      "STETSON_TAG": "rc-getusercall-627a829-00a6410",
       "SPINNAKER_TAG": "prod",
       "SUNFLOWER_TAG": "7.0.0.e2212ae",
       "CF_COMMIT_MESSAGE": "update stage 510"
