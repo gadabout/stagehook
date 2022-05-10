@@ -2,10 +2,10 @@
     {
 
       "NOREAGA_TAG": "prod",
-      "STETSON_TAG": "rc-expn-325-627a8f2-f1650ae",
+      "STETSON_TAG": "rc-expn-325update-627a98d-ef61846",
       "SPINNAKER_TAG": "prod",
       "SUNFLOWER_TAG": "7.0.0.e2212ae",
-      "CF_COMMIT_MESSAGE": "update stage 510"
+      "CF_COMMIT_MESSAGE": "update stage 510-2"
 
     }
   ]
