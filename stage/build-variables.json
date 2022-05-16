@@ -1,9 +1,9 @@
-[
+ [
   {
     "NOREAGA_TAG": "rc-H2O-stitch-sync-2-of-4-6272b0c-4025eaa",
-    "STETSON_TAG": "rc-expn392-627ebd3-b30d603",
+    "STETSON_TAG": "rc-stetsonfixes516take2-6282b47-dc2ef21",
     "SPINNAKER_TAG": "rc-placeholdertextake2-62719af-7e8dfa9",
-    "SUNFLOWER_TAG": "7.0.0.627ab68.9568969",
-    "CF_COMMIT_MESSAGE": "update stage"
+    "SUNFLOWER_TAG": "7.0.0.62828ca.c484f3d",
+    "CF_COMMIT_MESSAGE": "update stage stetson+sunflower"
   }
 ]
