@@ -4,8 +4,8 @@
       "NOREAGA_TAG": "prod",
       "STETSON_TAG": "prod",
       "SPINNAKER_TAG": "prod",
-      "SUNFLOWER_TAG": "7.0.0.627ab68",
-      "CF_COMMIT_MESSAGE": "update stage"
+      "SUNFLOWER_TAG": "7.0.0.627ab68.9568969",
+      "CF_COMMIT_MESSAGE": "update stage sunflower"
 
     }
   ]
