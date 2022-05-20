@@ -1,9 +1,9 @@
  [
   {
-    "NOREAGA_TAG": "rc-honorexpclaim-6286c70-55e140f",
+    "NOREAGA_TAG": "rc-hydrogenbundle5-9-6287f3c-f84d4e8",
     "STETSON_TAG": "rc-444stetsonupdated-6287cc2-372bacb",
     "SPINNAKER_TAG": "rc-placeholdertextake2-62719af-7e8dfa9",
     "SUNFLOWER_TAG": "7.0.0.628712a.03835fa",
-    "CF_COMMIT_MESSAGE": "update stage  5-20"
+    "CF_COMMIT_MESSAGE": "dep updates back on stage"
   }
 ]
