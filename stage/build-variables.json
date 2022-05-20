@@ -1,10 +1,9 @@
  [
   {
     "NOREAGA_TAG": "rc-honorexpclaim-6286c70-55e140f",
-    "STETSON_TAG": "rc-444stetsonupdated-6287ba6-6d12e57",
+    "STETSON_TAG": "rc-444stetsonupdated-6287cc2-372bacb",
     "SPINNAKER_TAG": "rc-placeholdertextake2-62719af-7e8dfa9",
     "SUNFLOWER_TAG": "7.0.0.627ab68.9568969",
-    "CF_COMMIT_MESSAGE": "update stage Noreaga 5-20"
-    
+    "CF_COMMIT_MESSAGE": "update stage Noreaga 5-20 take 2"
   }
 ]
