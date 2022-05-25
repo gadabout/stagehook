@@ -1,9 +1,9 @@
  [
   {
-    "NOREAGA_TAG": "rc-hydrogenbundle5-9-628d027-d022c3f",
-    "STETSON_TAG": "rc-stetsonfixes524-628d094-bd4ef56",
+    "NOREAGA_TAG": "rc-hydrogenbundle5-9-628e890-fd4cb3b",
+    "STETSON_TAG": "latest",
     "SPINNAKER_TAG": "latest",
     "SUNFLOWER_TAG": "latest",
-    "CF_COMMIT_MESSAGE": "stetson + noreaga updates"
+    "CF_COMMIT_MESSAGE": "noreaga updates"
   }
 ]
