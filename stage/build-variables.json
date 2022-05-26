@@ -1,9 +1,9 @@
  [
   {
-    "NOREAGA_TAG": "rc-hydrogenbundle5-9-628e890-fd4cb3b",
-    "STETSON_TAG": "ep-h2o1706-628eedb-749d8f6",
+    "NOREAGA_TAG": "rc-disputes-dashboard-data-628f9f6-f68f048",
+    "STETSON_TAG": "latest",
     "SPINNAKER_TAG": "latest",
     "SUNFLOWER_TAG": "latest",
-    "CF_COMMIT_MESSAGE": "stetson updates 3"
+    "CF_COMMIT_MESSAGE": "payments noreaga changes 5/26"
   }
 ]
