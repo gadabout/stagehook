@@ -1,9 +1,9 @@
  [
   {
     "NOREAGA_TAG": "rc-disputes-dashboard-data-628f9f6-f68f048",
-    "STETSON_TAG": "latest",
+    "STETSON_TAG": "ep-h2o1706-628eedb-749d8f6",
     "SPINNAKER_TAG": "latest",
     "SUNFLOWER_TAG": "latest",
-    "CF_COMMIT_MESSAGE": "payments noreaga changes 5/26"
+    "CF_COMMIT_MESSAGE": "stetson changes 5/26"
   }
 ]
