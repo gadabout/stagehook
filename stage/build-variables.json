@@ -1,9 +1,9 @@
  [
   {
     "NOREAGA_TAG": "rc-disputes-dashboard-data-628f9f6-f68f048",
-    "STETSON_TAG": "ep-h2o1706-629122b-a25f3fa",
+    "STETSON_TAG": "ep-h2o1706-629128a-3d8a399",
     "SPINNAKER_TAG": "latest",
     "SUNFLOWER_TAG": "ep-h2o1708-629107a-757321e",
-    "CF_COMMIT_MESSAGE": "stetson update 5/27"
+    "CF_COMMIT_MESSAGE": "stetson update 5/27 again"
   }
 ]
