@@ -3,7 +3,7 @@
     "NOREAGA_TAG": "rc-disputes-dashboard-data-628f9f6-f68f048",
     "STETSON_TAG": "ep-h2o1706-6290d4e-57ca83d",
     "SPINNAKER_TAG": "latest",
-    "SUNFLOWER_TAG": "ep-h2o1708-6290a18-5b6f306",
-    "CF_COMMIT_MESSAGE": "stetson AND sunflower update 5/27"
+    "SUNFLOWER_TAG": "ep-h2o1708-629107a-757321e",
+    "CF_COMMIT_MESSAGE": "sunflower update 5/27"
   }
 ]
