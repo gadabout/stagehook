@@ -1,9 +1,9 @@
  [
   {
     "NOREAGA_TAG": "rc-pay-txns-column-62968bb-f5d55ba",
-    "STETSON_TAG": "rc-firepithot-62979de-878dfa8",
+    "STETSON_TAG": "rc-redirectrere-6297c80-d51c934",
     "SPINNAKER_TAG": "latest",
     "SUNFLOWER_TAG": "7.0.0.629690b.99d8b85",
-    "CF_COMMIT_MESSAGE": "payments trans column add"
+    "CF_COMMIT_MESSAGE": "refund reserve redirect release"
   }
 ]
