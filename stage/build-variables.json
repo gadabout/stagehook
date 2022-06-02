@@ -1,9 +1,9 @@
  [
   {
-    "NOREAGA_TAG": "rc-pay-txns-column-62968bb-f5d55ba",
+    "NOREAGA_TAG": "rc-peekplusfree-6298e39-b719ba6",
     "STETSON_TAG": "rc-redirectrere-6297c80-d51c934",
     "SPINNAKER_TAG": "latest",
-    "SUNFLOWER_TAG": "7.0.0.6297be5.e195be8",
-    "CF_COMMIT_MESSAGE": "updating Sunflower"
+    "SUNFLOWER_TAG": "7.0.0.6298e3b.b65d1ae",
+    "CF_COMMIT_MESSAGE": "release candidates for 6/2"
   }
 ]
