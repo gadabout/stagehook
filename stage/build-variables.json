@@ -1,9 +1,9 @@
  [
   {
-    "NOREAGA_TAG": "rc-peekplusfree-6298e39-b719ba6",
-    "STETSON_TAG": "rc-redirectrere-6297c80-d51c934",
+    "NOREAGA_TAG": "rc-bookingreportepic-629a3b6-b48bbfa",
+    "STETSON_TAG": "rc-bookingreporttake16-629a45f-ed3e722",
     "SPINNAKER_TAG": "latest",
-    "SUNFLOWER_TAG": "7.0.0.6298e3b.b65d1ae",
-    "CF_COMMIT_MESSAGE": "release candidates for 6/2"
+    "SUNFLOWER_TAG": "latest",
+    "CF_COMMIT_MESSAGE": "booking report"
   }
 ]
