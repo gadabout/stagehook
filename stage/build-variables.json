@@ -1,9 +1,9 @@
  [
   {
-    "NOREAGA_TAG": "rc-bookingreportepic-629a3b6-b48bbfa",
-    "STETSON_TAG": "rc-bookingreporttake16-629a45f-ed3e722",
+    "NOREAGA_TAG": "ep-h2o-1085-bookings-report-part-1-629fc17-1ab8fe6",
+    "STETSON_TAG": "ep-bookingreporttake2-629fd21-c59433b",
     "SPINNAKER_TAG": "latest",
     "SUNFLOWER_TAG": "latest",
-    "CF_COMMIT_MESSAGE": "booking report"
+    "CF_COMMIT_MESSAGE": "booking report updates"
   }
 ]
