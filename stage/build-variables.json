@@ -1,9 +1,9 @@
  [
   {
-    "NOREAGA_TAG": "latest",
+    "NOREAGA_TAG": "ep-core-9714-fix-reseller-widget-62a8fbb-96933db",
     "STETSON_TAG": "latest",
     "SPINNAKER_TAG": "ep-526astfixes-628fd9a-41f6f73",
     "SUNFLOWER_TAG": "latest",
-    "CF_COMMIT_MESSAGE": "customer portal"
+    "CF_COMMIT_MESSAGE": "customer portal + reseller"
   }
 ]
