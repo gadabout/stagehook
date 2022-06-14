@@ -2,8 +2,8 @@
   {
     "NOREAGA_TAG": "latest",
     "STETSON_TAG": "latest",
-    "SPINNAKER_TAG": "latest",
+    "SPINNAKER_TAG": "ep-526astfixes-628fd9a-41f6f73",
     "SUNFLOWER_TAG": "latest",
-    "CF_COMMIT_MESSAGE": "payments stuff"
+    "CF_COMMIT_MESSAGE": "customer portal"
   }
 ]
