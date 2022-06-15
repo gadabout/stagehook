@@ -1,9 +1,9 @@
  [
   {
-    "NOREAGA_TAG": "ep-core-9714-fix-reseller-widget-62a8fbb-96933db",
-    "STETSON_TAG": "latest",
+    "NOREAGA_TAG": "ep-expn6-2-62aa43b-1cb255c",
+    "STETSON_TAG": "ep-expn6-2-62aa51b-a9ac556",
     "SPINNAKER_TAG": "ep-526astfixes-628fd9a-41f6f73",
-    "SUNFLOWER_TAG": "latest",
-    "CF_COMMIT_MESSAGE": "customer portal + reseller"
+    "SUNFLOWER_TAG": "ep-expn6-2-62aa51f-66b9dab",
+    "CF_COMMIT_MESSAGE": "expn bundle"
   }
 ]
