@@ -1,9 +1,9 @@
  [
   {
-    "NOREAGA_TAG": "ep-expn6-2-62aa43b-1cb255c",
-    "STETSON_TAG": "ep-expn6-2-62aa51b-a9ac556",
-    "SPINNAKER_TAG": "ep-526astfixes-628fd9a-41f6f73",
-    "SUNFLOWER_TAG": "ep-expn6-2-62aa51f-66b9dab",
-    "CF_COMMIT_MESSAGE": "expn bundle redeploy"
+    "NOREAGA_TAG": "rc-master-62b3974-e90ba4e",
+    "STETSON_TAG": "rc-master-62b38e3-a60474b",
+    "SPINNAKER_TAG": "ep-dependency-updates-62b20a8-ae933d4",
+    "SUNFLOWER_TAG": "7.0.0.62b38e4.dd91de4",
+    "CF_COMMIT_MESSAGE": "dep updates spinnaker"
   }
 ]
