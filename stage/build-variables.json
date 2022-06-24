@@ -1,9 +1,10 @@
- [
+ 
+[
   {
-    "NOREAGA_TAG": "rc-master-62b3974-e90ba4e",
-    "STETSON_TAG": "rc-master-62b38e3-a60474b",
-    "SPINNAKER_TAG": "ep-dependency-updates-62b20a8-ae933d4",
+    "NOREAGA_TAG": "rc-master-62b4fb6-f996f7b",
+    "STETSON_TAG": "ep-expn-570-62b5f80-2143c87",
+    "SPINNAKER_TAG": "rc-master-62b38e5-7c98968",
     "SUNFLOWER_TAG": "7.0.0.62b38e4.dd91de4",
-    "CF_COMMIT_MESSAGE": "dep updates spinnaker"
+    "CF_COMMIT_MESSAGE": "EXPN-570 deploy to Stetson"
   }
 ]
