@@ -1,10 +1,10 @@
  
 [
   {
-    "NOREAGA_TAG": "rc-master-62ba2b8-95a1968",
+    "NOREAGA_TAG": "ep-expn-571-62bb526-e16d14c",
     "STETSON_TAG": "rc-master-62b6132-83081f5",
     "SPINNAKER_TAG": "rc-master-62ba2c1-87ebde5",
     "SUNFLOWER_TAG": "7.0.0.62b9e75.3dffbca",
-    "CF_COMMIT_MESSAGE": "Hydrogen Parent ID"
+    "CF_COMMIT_MESSAGE": "expn-571"
   }
 ]
