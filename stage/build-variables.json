@@ -1,10 +1,10 @@
  
 [
   {
-    "NOREAGA_TAG": "ep-elasticsearch-62bcf71-c718626",
+    "NOREAGA_TAG": "ep-elasticsearch-62bdb1e-456ec26",
     "STETSON_TAG": "rc-master-62b6132-83081f5",
     "SPINNAKER_TAG": "rc-master-62bb5d4-6d35b61",
     "SUNFLOWER_TAG": "7.0.0.62bc9dd.6684949",
-    "CF_COMMIT_MESSAGE": "elastic search fix"
+    "CF_COMMIT_MESSAGE": "elastic search 456ec26"
   }
 ]
