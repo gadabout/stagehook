@@ -1,10 +1,10 @@
  
 [
   {
-    "NOREAGA_TAG": "rc-master-62be103-92d31c5",
-    "STETSON_TAG": "rc-master-62b6132-83081f5",
+    "NOREAGA_TAG": "ep-fix-hawkeye-actors-62be2eb-f23659b",
+    "STETSON_TAG": "ep-pit-91-hawkeye-spoofing-62be323-0e1698e",
     "SPINNAKER_TAG": "rc-master-62bb5d4-6d35b61",
-    "SUNFLOWER_TAG": "7.0.0.62bc9dd.6684949",
-    "CF_COMMIT_MESSAGE": "search stuff"
+    "SUNFLOWER_TAG": "ep-pit-91-hawkeye-spoofing-62be2f5-ac4fa30",
+    "CF_COMMIT_MESSAGE": "hawkeye actors update"
   }
 ]
