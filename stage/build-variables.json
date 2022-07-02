@@ -5,6 +5,6 @@
     "STETSON_TAG": "ep-pit-91-hawkeye-spoofing-62be323-0e1698e",
     "SPINNAKER_TAG": "rc-master-62bb5d4-6d35b61",
     "SUNFLOWER_TAG": "ep-pit-91-hawkeye-spoofing-62be2f5-ac4fa30",
-    "CF_COMMIT_MESSAGE": "Reversions from Main for manifest/guide bugfixes"
+    "CF_COMMIT_MESSAGE": "Reversions from Main for manifest/guide bugfixes take2"
   }
 ]
