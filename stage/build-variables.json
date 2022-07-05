@@ -1,10 +1,10 @@
  
 [
   {
-    "NOREAGA_TAG": "rc-master-62bf8fb-a3d04f7",
-    "STETSON_TAG": "ep-pit-91-hawkeye-spoofing-62be323-0e1698e",
+    "NOREAGA_TAG": "ep-expn-593-594-62c4956-1730e67",
+    "STETSON_TAG": "ep-expn-592-2056-62c4af7-b02506b",
     "SPINNAKER_TAG": "rc-master-62bb5d4-6d35b61",
     "SUNFLOWER_TAG": "ep-pit-91-hawkeye-spoofing-62be2f5-ac4fa30",
-    "CF_COMMIT_MESSAGE": "Reversions from Main for manifest/guide bugfixes take2"
+    "CF_COMMIT_MESSAGE": "Stetson-Noreaga-expn-592-h2o-2056-593-594-600"
   }
 ]
