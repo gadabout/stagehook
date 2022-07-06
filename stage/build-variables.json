@@ -3,8 +3,8 @@
   {
     "NOREAGA_TAG": "ep-expn-593-594-62c4956-1730e67",
     "STETSON_TAG": "ep-expn-592-2056-62c4af7-b02506b",
-    "SPINNAKER_TAG": "ep-expn-600-62c4b6e-fe161f5",
+    "SPINNAKER_TAG": "ep-expn-600-62c5b2c-706a01c",
     "SUNFLOWER_TAG": "ep-pit-91-hawkeye-spoofing-62be2f5-ac4fa30",
-    "CF_COMMIT_MESSAGE": "Spinnaker-expn-600"
+    "CF_COMMIT_MESSAGE": "Spinnaker-bugfix-expn-600"
   }
 ]
