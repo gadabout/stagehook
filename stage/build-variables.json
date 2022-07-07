@@ -1,10 +1,10 @@
  
 [
   {
-    "NOREAGA_TAG": "rc-master-62c719e-d59e251",
+    "NOREAGA_TAG": "ep-waivers-v2-62c752c-62fe265",
     "STETSON_TAG": "rc-master-62c719f-9015492",
     "SPINNAKER_TAG": "rc-master-62c5fae-13a75af",
     "SUNFLOWER_TAG": "7.0.0.62bc9dd.6684949",
-    "CF_COMMIT_MESSAGE": "password stuff"
+    "CF_COMMIT_MESSAGE": "waivers back up"
   }
 ]
