@@ -1,10 +1,10 @@
  
 [
   {
-    "NOREAGA_TAG": "rc-master-62c5fdc-a0bcbc3",
+    "NOREAGA_TAG": "ep-waivers-v2-62c611a-a477b33",
     "STETSON_TAG": "rc-master-62c5fb7-d3a1e77",
     "SPINNAKER_TAG": "rc-master-62c5fae-13a75af",
-    "SUNFLOWER_TAG": "ep-pit-91-hawkeye-spoofing-62be2f5-ac4fa30",
-    "CF_COMMIT_MESSAGE": "Stage After Pushing to MAIN"
+    "SUNFLOWER_TAG": "7.0.0.62bc9dd.6684949",
+    "CF_COMMIT_MESSAGE": "waivers epic"
   }
 ]
