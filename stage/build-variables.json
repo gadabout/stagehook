@@ -1,10 +1,10 @@
  
 [
   {
-    "NOREAGA_TAG": "ep-waivers-v2-62c611a-a477b33",
-    "STETSON_TAG": "rc-master-62c5fb7-d3a1e77",
+    "NOREAGA_TAG": "rc-master-62c719e-d59e251",
+    "STETSON_TAG": "rc-master-62c719f-9015492",
     "SPINNAKER_TAG": "rc-master-62c5fae-13a75af",
     "SUNFLOWER_TAG": "7.0.0.62bc9dd.6684949",
-    "CF_COMMIT_MESSAGE": "waivers epic"
+    "CF_COMMIT_MESSAGE": "password stuff"
   }
 ]
