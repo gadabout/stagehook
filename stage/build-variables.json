@@ -1,10 +1,10 @@
  
 [
   {
-    "NOREAGA_TAG": "ep-expn-630-noreaga-62c86e3-c3abc34",
-    "STETSON_TAG": "ep-expn-630-stetson-62c8683-7c9e928",
+    "NOREAGA_TAG": "rc-master-62c899d-0680ab0",
+    "STETSON_TAG": "rc-master-62c89ca-a60db83",
     "SPINNAKER_TAG": "rc-master-62c5fae-13a75af",
     "SUNFLOWER_TAG": "7.0.0.62bc9dd.6684949",
-    "CF_COMMIT_MESSAGE": "expn-630-stetson-noreaga"
+    "CF_COMMIT_MESSAGE": "expn-630-stageSanity"
   }
 ]
